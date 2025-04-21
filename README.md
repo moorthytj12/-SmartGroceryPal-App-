@@ -43,5 +43,3 @@ SmartGroceryPal is an eco-conscious grocery list app that helps users make smart
 
 ---
 
-## 🗂 Folder Structure
-
