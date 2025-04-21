@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SmartGroceryPal - Figma Embed</title>
+</head>
+<body>
+  <h1>SmartGroceryPal App – Figma Design</h1>
+
+  <iframe
+    style="border: 1px solid rgba(0, 0, 0, 0.1);"
+    width="800"
+    height="450"
+    src="https://embed.figma.com/design/ExoNi5aCZn6hxZOWfOg6px/SmartGloceryPal?node-id=1-1985&embed-host=share"
+    allowfullscreen>
+  </iframe>
+</body>
+</html>
